@@ -12,7 +12,7 @@ int main()
 
     int ans = mul(a,b);
 
-    cout << ans << endl;
+    cout << "multiplied ans = " << ans << endl;
     
     return 0;
 }
